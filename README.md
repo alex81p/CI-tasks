@@ -1,0 +1,1 @@
+Скриншоты выполненных практических заданий по теме "Continuous Integration with Jenkins"
